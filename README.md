@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Art 👋
 
-<!--
-**VelvetHawk/VelvetHawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a problem solver first and foremost, software is just *one of the ways* in which I do that.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on three areas in particular:
+- **Web development**
+- **Low-level development**
+- **Game development**
+
+I've been writing code since 2012/2013, with a Bachelor's Degree in Computer Science and around 6 years of
+*professional experience*™. In that time, I've tried out a lot of things and will be trying out many more in
+the coming years. I make tools, services and challenge the status quo.
+
+In the future, you may even end up using tools built by me ;)
